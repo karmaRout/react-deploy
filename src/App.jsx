@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      HELLO1
+      HELLO2
     </>
   )
 }
